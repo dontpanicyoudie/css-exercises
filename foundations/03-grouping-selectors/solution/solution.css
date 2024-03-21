@@ -1,16 +1,17 @@
+/* style.css */
 
-.inverted,
-.fancy {
-  font-family: Helvetica, "Times New Roman", sans-serif;
-  font-size: 28px;
+.one,
+.two {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-.inverted {
-  background-color: black;
-  color: white;
-  font-weight: bold;
+.one {
+    background-color: black;
+    color: white;
+    font-weight: bold;
 }
 
-.fancy {
-  background-color: yellow;
+.two {
+    background-color: yellow;
 }
